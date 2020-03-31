@@ -14,7 +14,7 @@ _This exercise accepts numerical user input and multiplies the value by all posi
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at https://jhvozdovich.github.io/leap-year/
+* Alternatively, open the webpage at https://jhvozdovich.github.io/factorials/
 
 
 ## Known Bugs
